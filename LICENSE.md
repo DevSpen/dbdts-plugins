@@ -1,3 +1,10 @@
+### TL;DR:
+![](https://user-images.githubusercontent.com/69215413/133941995-f496d48a-be12-46aa-9f06-36d8fe8c717b.png)\
+*Uses The [Unlicense](https://choosealicense.com/licenses/unlicense/#) License.*
+
+--------
+
+### License
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
