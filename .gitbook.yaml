@@ -1,0 +1,3 @@
+structure:  
+    readme: ./docs/home.md
+    summary: ./docs/SUMMARY.md
