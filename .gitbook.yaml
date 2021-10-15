@@ -1,4 +1,4 @@
 structure:  
-    root: ./src/docs/
-    readme: ./src/docs/home.md
-    summary: ./src/docs/SUMMARY.md
+    root: ./docs/
+    readme: ./docs/home.md
+    summary: ./docs/SUMMARY.md
