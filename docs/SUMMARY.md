@@ -5,4 +5,4 @@
 ## ⚙ Functions
 
 * [$fetchGuilds](../functions/fetchguilds.md)
-* [$sort](../functions/usdsort.md)
+* [$sort](../functions/sort.md)
